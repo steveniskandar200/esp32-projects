@@ -11,7 +11,7 @@ A collection of ESP32 projects built with the Elegoo Super Starter Kit while lea
 
 | # | Project | Concepts | Status |
 |---|---------|----------|--------|
-| 01 | [LED Blink](./01-led-blink/) | Digital output, GPIO | ✅ Done |
+| 01 | [LED Blink](./01-led-blink/) | Digital output, GPIO | Done |
 
 ## Getting Started
 
