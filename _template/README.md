@@ -16,7 +16,6 @@ Describe how to wire it up:
 - LED **anode (+)** → 220Ω resistor → GPIO 2
 - LED **cathode (-)** → GND
 
-> 💡 Tip: Add a photo or Fritzing diagram here if you have one.
 
 ## Code Notes
 Explain anything interesting or non-obvious about the code:
